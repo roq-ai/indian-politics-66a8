@@ -1,0 +1,2322 @@
+[
+  {
+    "politician": [
+      {
+        "id": "e52d8f82-4f4f-427a-be3b-c2b224a95323",
+        "biography": "Experienced politician with a passion for public service.",
+        "current_position": "State Senator",
+        "work_process": "Collaborating with colleagues to pass important legislation.",
+        "created_at": "2023-09-06T00:30:57.380Z",
+        "updated_at": "2023-09-06T02:49:06.598Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "336a68a0-eb59-46de-8c0d-89fb9ba8d378",
+        "biography": "Dedicated to making positive change in the community.",
+        "current_position": "Mayor",
+        "work_process": "Engaging with constituents to address their concerns.",
+        "created_at": "2023-09-06T00:44:00.273Z",
+        "updated_at": "2023-09-05T15:45:53.147Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "debf6a1a-ae2a-4009-819a-514bc8a0737d",
+        "biography": "Committed to transparency and accountability.",
+        "current_position": "Congressman",
+        "work_process": "Attending community events and meetings to stay connected.",
+        "created_at": "2023-09-05T22:14:16.679Z",
+        "updated_at": "2023-09-06T09:50:08.562Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b609b6d8-fd3b-4e77-8410-1e13f540070c",
+        "biography": "Advocating for the rights and needs of the people.",
+        "current_position": "Governor",
+        "work_process": "Analyzing data and research to inform policy decisions.",
+        "created_at": "2023-09-05T18:43:56.488Z",
+        "updated_at": "2023-09-05T20:36:40.574Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "648b3074-5c01-40f8-883b-a06202e9b291",
+        "biography": "Working towards a better future for all.",
+        "current_position": "City Council Member",
+        "work_process": "Building coalitions and partnerships to achieve common goals.",
+        "created_at": "2023-09-06T10:04:43.393Z",
+        "updated_at": "2023-09-06T00:43:19.198Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "89d659fc-c858-4971-8ec2-ab53dc2c0d13",
+        "daily_usage": 42435,
+        "weekly_usage": 39678,
+        "monthly_usage": 45365,
+        "created_at": "2023-09-05T17:36:45.243Z",
+        "updated_at": "2023-09-05T19:31:59.913Z",
+        "politician_id": "b609b6d8-fd3b-4e77-8410-1e13f540070c"
+      },
+      {
+        "id": "1ebef1ac-8836-4571-ab65-08b5ffe5a715",
+        "daily_usage": 28698,
+        "weekly_usage": 65346,
+        "monthly_usage": 30356,
+        "created_at": "2023-09-05T22:29:49.167Z",
+        "updated_at": "2023-09-06T07:47:20.983Z",
+        "politician_id": "e52d8f82-4f4f-427a-be3b-c2b224a95323"
+      },
+      {
+        "id": "cbc367d3-94f1-4567-a6bf-dcb3ca6b3fe3",
+        "daily_usage": 87953,
+        "weekly_usage": 64871,
+        "monthly_usage": 51947,
+        "created_at": "2023-09-05T18:06:57.070Z",
+        "updated_at": "2023-09-05T20:42:46.000Z",
+        "politician_id": "e52d8f82-4f4f-427a-be3b-c2b224a95323"
+      },
+      {
+        "id": "5112cddc-2bbe-4706-a6fb-c09ab5fc813a",
+        "daily_usage": 28007,
+        "weekly_usage": 91930,
+        "monthly_usage": 84872,
+        "created_at": "2023-09-06T08:09:02.212Z",
+        "updated_at": "2023-09-05T18:18:47.323Z",
+        "politician_id": "648b3074-5c01-40f8-883b-a06202e9b291"
+      },
+      {
+        "id": "84bcf157-77b2-4e74-b42e-e8c154b2f894",
+        "daily_usage": 15978,
+        "weekly_usage": 21535,
+        "monthly_usage": 64744,
+        "created_at": "2023-09-05T16:14:48.555Z",
+        "updated_at": "2023-09-05T20:54:38.442Z",
+        "politician_id": "debf6a1a-ae2a-4009-819a-514bc8a0737d"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "16701426-c6e1-4f73-90ae-938a16250e14",
+        "performance_score": 17967,
+        "demand_score": 12497,
+        "assessment_date": "2023-09-06T14:47:24.711Z",
+        "created_at": "2023-09-06T07:32:37.861Z",
+        "updated_at": "2023-09-05T22:00:06.295Z",
+        "politician_id": "b609b6d8-fd3b-4e77-8410-1e13f540070c"
+      },
+      {
+        "id": "391a61b8-8aa7-419b-8c86-339f093834f3",
+        "performance_score": 26448,
+        "demand_score": 75287,
+        "assessment_date": "2023-09-06T13:21:21.027Z",
+        "created_at": "2023-09-06T01:40:37.667Z",
+        "updated_at": "2023-09-06T06:33:38.352Z",
+        "politician_id": "648b3074-5c01-40f8-883b-a06202e9b291"
+      },
+      {
+        "id": "08401724-2f23-4760-8417-251e21cf3d8a",
+        "performance_score": 17279,
+        "demand_score": 65878,
+        "assessment_date": "2023-09-06T15:14:55.317Z",
+        "created_at": "2023-09-05T23:36:29.595Z",
+        "updated_at": "2023-09-05T18:44:32.687Z",
+        "politician_id": "336a68a0-eb59-46de-8c0d-89fb9ba8d378"
+      },
+      {
+        "id": "32453c54-2c20-4d1b-bf74-fe4fd221d3cf",
+        "performance_score": 48335,
+        "demand_score": 24258,
+        "assessment_date": "2023-09-05T19:45:53.063Z",
+        "created_at": "2023-09-06T02:20:55.910Z",
+        "updated_at": "2023-09-05T22:55:14.045Z",
+        "politician_id": "e52d8f82-4f4f-427a-be3b-c2b224a95323"
+      },
+      {
+        "id": "29488728-14df-4f0d-be24-67147aca84ee",
+        "performance_score": 42655,
+        "demand_score": 66193,
+        "assessment_date": "2023-09-06T02:44:42.057Z",
+        "created_at": "2023-09-05T18:50:55.259Z",
+        "updated_at": "2023-09-06T11:45:37.362Z",
+        "politician_id": "debf6a1a-ae2a-4009-819a-514bc8a0737d"
+      }
+    ],
+    "guest": [
+      {
+        "id": "9e1f7f90-1ac4-496c-8cbd-bc4988640e92",
+        "search_history": "Climate change impact on agriculture",
+        "viewed_profiles": "John Smith (Politician)",
+        "created_at": "2023-09-05T16:12:43.477Z",
+        "updated_at": "2023-09-06T14:35:29.395Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac88cdf8-5d35-47bf-967b-33813a9e22a2",
+        "search_history": "Economic policies for small businesses",
+        "viewed_profiles": "Green Earth Foundation (Organization)",
+        "created_at": "2023-09-06T12:20:18.594Z",
+        "updated_at": "2023-09-05T18:33:27.288Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "011bfa6f-9301-4730-9cb4-6f80fd46a955",
+        "search_history": "Healthcare reform initiatives",
+        "viewed_profiles": "Jane Doe (Politician)",
+        "created_at": "2023-09-06T09:10:43.300Z",
+        "updated_at": "2023-09-06T00:36:51.245Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc12c53a-7341-4000-8600-4303d9be9567",
+        "search_history": "Education funding in low-income neighborhoods",
+        "viewed_profiles": "Community Outreach Center (Organization)",
+        "created_at": "2023-09-06T06:49:44.378Z",
+        "updated_at": "2023-09-06T14:47:35.965Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ccfe4381-534d-40f0-89bb-514b2e21e383",
+        "search_history": "Criminal justice reform strategies",
+        "viewed_profiles": "Michael Brown (Politician)",
+        "created_at": "2023-09-05T20:10:44.340Z",
+        "updated_at": "2023-09-06T12:50:31.584Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0f25b171-d101-4efb-9eac-9c776e176ac4",
+        "email": "Tomas74@gmail.com",
+        "firstName": "Kayden",
+        "lastName": "McCullough",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/362.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f1609009-207a-479e-b4b2-8ae9eaf386e6",
+        "email": "Agustin_Kling57@yahoo.com",
+        "firstName": "Bradford",
+        "lastName": "Daniel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/551.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ba7e1197-bec6-4b2b-aadb-8a98720c3b6c",
+        "email": "Blake_Price@hotmail.com",
+        "firstName": "Kenya",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73974691",
+        "tenantId": null
+      },
+      {
+        "reference": "4a0b1723-76a8-4572-8479-06dd1c76ef61",
+        "email": "Loraine86@hotmail.com",
+        "firstName": "Lazaro",
+        "lastName": "Dickinson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39362629",
+        "tenantId": null
+      },
+      {
+        "reference": "cbf52263-fc0e-43f5-abdb-66c6139dc58b",
+        "email": "Joelle7@hotmail.com",
+        "firstName": "Magdalena",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42835626",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "politician": [
+      {
+        "id": "21802616-e174-483b-be11-989d73039ba7",
+        "biography": "Experienced politician with a strong commitment to public service.",
+        "current_position": "Senator",
+        "work_process": "Implemented policies to reduce crime rates.",
+        "created_at": "2023-09-06T12:12:29.069Z",
+        "updated_at": "2023-09-05T16:19:15.328Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a57579e-2a07-456f-829d-78de443d1bd2",
+        "biography": "Passionate about making positive changes in society.",
+        "current_position": "Governor",
+        "work_process": "Introduced legislation to protect the environment.",
+        "created_at": "2023-09-05T18:23:16.443Z",
+        "updated_at": "2023-09-06T11:17:48.131Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa9062c4-96e8-408b-a20e-5a31e875d433",
+        "biography": "Advocate for equal rights and social justice.",
+        "current_position": "Mayor",
+        "work_process": "Advocated for affordable housing initiatives.",
+        "created_at": "2023-09-05T18:48:32.869Z",
+        "updated_at": "2023-09-06T08:44:26.028Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c81c2400-bd22-47d0-bdc5-d9e924f275cc",
+        "biography": "Committed to improving education and healthcare.",
+        "current_position": "Congressman",
+        "work_process": "Led efforts to improve public transportation.",
+        "created_at": "2023-09-06T11:02:51.260Z",
+        "updated_at": "2023-09-05T22:05:54.369Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "017a6233-2f60-4c13-8235-1f9ed74d73f3",
+        "biography": "Dedicated to promoting economic growth and job creation.",
+        "current_position": "Councilmember",
+        "work_process": "Worked to strengthen relationships with international partners.",
+        "created_at": "2023-09-06T05:31:50.880Z",
+        "updated_at": "2023-09-06T07:52:26.051Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "2ed302c0-a8a0-4bd7-872d-2d71d64d60c4",
+        "daily_usage": 81961,
+        "weekly_usage": 23101,
+        "monthly_usage": 12089,
+        "created_at": "2023-09-06T00:23:41.618Z",
+        "updated_at": "2023-09-06T10:45:42.861Z",
+        "politician_id": "017a6233-2f60-4c13-8235-1f9ed74d73f3"
+      },
+      {
+        "id": "a27da491-384d-419f-baaa-dfe097693b5a",
+        "daily_usage": 29385,
+        "weekly_usage": 5104,
+        "monthly_usage": 4649,
+        "created_at": "2023-09-06T14:36:27.775Z",
+        "updated_at": "2023-09-06T13:33:04.824Z",
+        "politician_id": "fa9062c4-96e8-408b-a20e-5a31e875d433"
+      },
+      {
+        "id": "ef417323-2674-4516-92fc-79cae54ad13f",
+        "daily_usage": 85905,
+        "weekly_usage": 14024,
+        "monthly_usage": 44410,
+        "created_at": "2023-09-06T10:35:30.429Z",
+        "updated_at": "2023-09-06T00:15:24.131Z",
+        "politician_id": "21802616-e174-483b-be11-989d73039ba7"
+      },
+      {
+        "id": "759711ac-264a-42e9-8161-015183a735ac",
+        "daily_usage": 83764,
+        "weekly_usage": 40489,
+        "monthly_usage": 22856,
+        "created_at": "2023-09-06T01:34:28.800Z",
+        "updated_at": "2023-09-06T07:46:54.062Z",
+        "politician_id": "21802616-e174-483b-be11-989d73039ba7"
+      },
+      {
+        "id": "dd8d09b0-8df4-42fd-b9ee-a3cb65767d25",
+        "daily_usage": 88476,
+        "weekly_usage": 6042,
+        "monthly_usage": 28299,
+        "created_at": "2023-09-05T20:10:34.272Z",
+        "updated_at": "2023-09-05T23:02:44.014Z",
+        "politician_id": "017a6233-2f60-4c13-8235-1f9ed74d73f3"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "77ef96cd-0399-4727-bca4-ac46c698955a",
+        "performance_score": 25424,
+        "demand_score": 52036,
+        "assessment_date": "2023-09-06T00:55:02.982Z",
+        "created_at": "2023-09-05T18:03:24.693Z",
+        "updated_at": "2023-09-05T19:31:31.183Z",
+        "politician_id": "017a6233-2f60-4c13-8235-1f9ed74d73f3"
+      },
+      {
+        "id": "98bbb876-a015-4e00-bbdb-812360518b0a",
+        "performance_score": 12396,
+        "demand_score": 3894,
+        "assessment_date": "2023-09-06T00:34:10.994Z",
+        "created_at": "2023-09-05T22:27:48.359Z",
+        "updated_at": "2023-09-06T09:56:37.814Z",
+        "politician_id": "21802616-e174-483b-be11-989d73039ba7"
+      },
+      {
+        "id": "8251d11d-f3a7-475e-b70e-ddbe136aef6b",
+        "performance_score": 2066,
+        "demand_score": 68307,
+        "assessment_date": "2023-09-06T10:24:27.019Z",
+        "created_at": "2023-09-06T09:33:35.547Z",
+        "updated_at": "2023-09-06T12:51:35.509Z",
+        "politician_id": "017a6233-2f60-4c13-8235-1f9ed74d73f3"
+      },
+      {
+        "id": "627fd670-60be-4e51-b02e-740ae97d138f",
+        "performance_score": 84083,
+        "demand_score": 15092,
+        "assessment_date": "2023-09-06T00:54:53.312Z",
+        "created_at": "2023-09-05T16:03:39.333Z",
+        "updated_at": "2023-09-06T06:44:16.010Z",
+        "politician_id": "017a6233-2f60-4c13-8235-1f9ed74d73f3"
+      },
+      {
+        "id": "743c28eb-e7ec-473b-8625-81c0b6cec16b",
+        "performance_score": 46207,
+        "demand_score": 58520,
+        "assessment_date": "2023-09-05T16:35:00.738Z",
+        "created_at": "2023-09-06T02:55:07.308Z",
+        "updated_at": "2023-09-05T22:23:31.139Z",
+        "politician_id": "017a6233-2f60-4c13-8235-1f9ed74d73f3"
+      }
+    ],
+    "guest": [
+      {
+        "id": "c259a85f-5f5c-428b-b7a5-da151db90861",
+        "search_history": "Climate change",
+        "viewed_profiles": "Politician A",
+        "created_at": "2023-09-06T07:53:04.200Z",
+        "updated_at": "2023-09-05T21:53:36.072Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d966dda7-1d99-47ee-a7d8-032b79105a68",
+        "search_history": "Healthcare reform",
+        "viewed_profiles": "Politician B",
+        "created_at": "2023-09-05T17:55:11.276Z",
+        "updated_at": "2023-09-05T18:28:47.726Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7314147-45cc-491d-9a40-d35c840045d3",
+        "search_history": "Education funding",
+        "viewed_profiles": "Politician C",
+        "created_at": "2023-09-06T14:12:39.609Z",
+        "updated_at": "2023-09-06T05:13:53.739Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b560a77c-9a35-4396-807f-6a35e300bf02",
+        "search_history": "Income inequality",
+        "viewed_profiles": "Organization X",
+        "created_at": "2023-09-06T07:32:03.956Z",
+        "updated_at": "2023-09-05T22:38:21.171Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6dc4ef5-0716-4607-8907-cbebf6352494",
+        "search_history": "Immigration policy",
+        "viewed_profiles": "Organization Y",
+        "created_at": "2023-09-06T10:06:38.241Z",
+        "updated_at": "2023-09-06T13:51:27.394Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cf474692-c967-4d6d-978c-c966971b16d2",
+        "email": "Bradley79@hotmail.com",
+        "firstName": "Deron",
+        "lastName": "Skiles-Kuhn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50656355",
+        "tenantId": null
+      },
+      {
+        "reference": "7588d626-a38f-4ce8-b817-07bf02404742",
+        "email": "Reagan_Denesik@yahoo.com",
+        "firstName": "Enoch",
+        "lastName": "Rice",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/415.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f250d70c-27c8-482a-a0b6-316e58f3814f",
+        "email": "King.Kreiger-West@hotmail.com",
+        "firstName": "Shaun",
+        "lastName": "Wolff",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/302.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f0c9a161-f399-4e30-8adb-9e18afde5078",
+        "email": "Colton38@hotmail.com",
+        "firstName": "Isabella",
+        "lastName": "Swift-Klocko",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/96.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "85422734-5f59-4a22-bbfc-6439e8920f52",
+        "email": "Greyson.Cummings13@hotmail.com",
+        "firstName": "Maxie",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/475.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "politician": [
+      {
+        "id": "4c763e4c-362a-4624-9bb9-91d9249c1e8a",
+        "biography": "Experienced politician with a passion for public service",
+        "current_position": "Senator",
+        "work_process": "Implemented policies to reduce crime rates",
+        "created_at": "2023-09-05T20:28:01.297Z",
+        "updated_at": "2023-09-06T03:41:50.270Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "94c50bff-e34b-49f4-8da9-014eafce0261",
+        "biography": "Advocate for social justice and equality",
+        "current_position": "Governor",
+        "work_process": "Led successful economic development initiatives",
+        "created_at": "2023-09-06T06:49:01.514Z",
+        "updated_at": "2023-09-05T23:48:42.299Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1543bbd-9ba7-4be0-bfc3-b0254736c86b",
+        "biography": "Committed to improving healthcare for all",
+        "current_position": "Mayor",
+        "work_process": "Advocated for affordable housing options",
+        "created_at": "2023-09-06T09:17:48.869Z",
+        "updated_at": "2023-09-06T00:08:25.558Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "36b329c6-5056-4246-8c4b-293c6fe7a782",
+        "biography": "Champion for education reform",
+        "current_position": "Congressman",
+        "work_process": "Supported legislation to protect the environment",
+        "created_at": "2023-09-06T11:45:16.245Z",
+        "updated_at": "2023-09-06T01:15:49.982Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "27aa4e87-d912-4605-ad64-b6dbcb58a1dd",
+        "biography": "Dedicated to environmental sustainability",
+        "current_position": "Councilmember",
+        "work_process": "Promoted transparency in government",
+        "created_at": "2023-09-06T00:24:46.672Z",
+        "updated_at": "2023-09-06T00:06:59.506Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "c281ac88-0bf1-4abf-b658-183c7ee0b7e9",
+        "daily_usage": 49905,
+        "weekly_usage": 53374,
+        "monthly_usage": 54888,
+        "created_at": "2023-09-06T08:12:35.215Z",
+        "updated_at": "2023-09-05T16:53:20.934Z",
+        "politician_id": "c1543bbd-9ba7-4be0-bfc3-b0254736c86b"
+      },
+      {
+        "id": "68311abc-ab30-4988-bf6b-6109f162eb76",
+        "daily_usage": 6978,
+        "weekly_usage": 23860,
+        "monthly_usage": 55021,
+        "created_at": "2023-09-06T07:18:44.797Z",
+        "updated_at": "2023-09-06T15:11:16.369Z",
+        "politician_id": "36b329c6-5056-4246-8c4b-293c6fe7a782"
+      },
+      {
+        "id": "cb31207f-4bbd-4e10-8347-262d74f2fb4e",
+        "daily_usage": 11343,
+        "weekly_usage": 93876,
+        "monthly_usage": 856,
+        "created_at": "2023-09-05T21:25:48.124Z",
+        "updated_at": "2023-09-06T12:39:20.232Z",
+        "politician_id": "4c763e4c-362a-4624-9bb9-91d9249c1e8a"
+      },
+      {
+        "id": "bb2af623-4fa8-490c-80c6-9570ac844564",
+        "daily_usage": 6717,
+        "weekly_usage": 69921,
+        "monthly_usage": 62469,
+        "created_at": "2023-09-06T14:18:33.746Z",
+        "updated_at": "2023-09-05T17:47:11.245Z",
+        "politician_id": "36b329c6-5056-4246-8c4b-293c6fe7a782"
+      },
+      {
+        "id": "08be6e8c-4910-4c32-bf69-ff3d390e096c",
+        "daily_usage": 93598,
+        "weekly_usage": 60815,
+        "monthly_usage": 74858,
+        "created_at": "2023-09-05T23:35:26.980Z",
+        "updated_at": "2023-09-06T14:40:37.475Z",
+        "politician_id": "4c763e4c-362a-4624-9bb9-91d9249c1e8a"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "fb447f14-afc3-4383-9c95-056dd65bf4a6",
+        "performance_score": 92200,
+        "demand_score": 10567,
+        "assessment_date": "2023-09-06T12:39:19.539Z",
+        "created_at": "2023-09-05T19:58:14.790Z",
+        "updated_at": "2023-09-06T00:14:31.136Z",
+        "politician_id": "27aa4e87-d912-4605-ad64-b6dbcb58a1dd"
+      },
+      {
+        "id": "93fbd271-a54d-4975-a0a2-9e35c6fee7a6",
+        "performance_score": 68481,
+        "demand_score": 20250,
+        "assessment_date": "2023-09-05T23:56:23.815Z",
+        "created_at": "2023-09-06T15:03:19.970Z",
+        "updated_at": "2023-09-05T18:27:54.552Z",
+        "politician_id": "27aa4e87-d912-4605-ad64-b6dbcb58a1dd"
+      },
+      {
+        "id": "d6689faa-7f73-4c71-bed1-e4730aef24da",
+        "performance_score": 88048,
+        "demand_score": 4772,
+        "assessment_date": "2023-09-05T21:17:40.588Z",
+        "created_at": "2023-09-06T14:24:04.856Z",
+        "updated_at": "2023-09-06T06:37:23.021Z",
+        "politician_id": "c1543bbd-9ba7-4be0-bfc3-b0254736c86b"
+      },
+      {
+        "id": "62066039-2da2-4778-8eb3-7d1ec74010c3",
+        "performance_score": 30405,
+        "demand_score": 8399,
+        "assessment_date": "2023-09-06T12:55:40.503Z",
+        "created_at": "2023-09-06T09:53:41.367Z",
+        "updated_at": "2023-09-06T15:20:54.518Z",
+        "politician_id": "c1543bbd-9ba7-4be0-bfc3-b0254736c86b"
+      },
+      {
+        "id": "d35dd912-db1e-4136-a990-fc5c53999175",
+        "performance_score": 38122,
+        "demand_score": 91650,
+        "assessment_date": "2023-09-06T01:23:11.678Z",
+        "created_at": "2023-09-05T19:26:38.499Z",
+        "updated_at": "2023-09-05T21:09:12.902Z",
+        "politician_id": "36b329c6-5056-4246-8c4b-293c6fe7a782"
+      }
+    ],
+    "guest": [
+      {
+        "id": "f39c4f79-35b4-4cc9-a1a8-1c502c8de932",
+        "search_history": "Politics",
+        "viewed_profiles": "Politician A",
+        "created_at": "2023-09-06T04:54:12.833Z",
+        "updated_at": "2023-09-06T00:52:03.464Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "efafdc77-e730-44f4-b614-def463c0b1dc",
+        "search_history": "Climate change",
+        "viewed_profiles": "Politician B",
+        "created_at": "2023-09-05T18:44:06.241Z",
+        "updated_at": "2023-09-06T05:14:43.426Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "688830aa-a1fe-4262-a651-a4be420a7918",
+        "search_history": "Education reform",
+        "viewed_profiles": "Organization X",
+        "created_at": "2023-09-06T10:44:41.593Z",
+        "updated_at": "2023-09-06T09:58:15.733Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c855d44-408b-427f-8fd3-e7f65905d3ff",
+        "search_history": "Healthcare policies",
+        "viewed_profiles": "Politician C",
+        "created_at": "2023-09-06T08:45:41.596Z",
+        "updated_at": "2023-09-05T18:16:12.580Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d3178f7-f372-4ff3-9913-a8dd7ed94639",
+        "search_history": "Economic development",
+        "viewed_profiles": "Organization Y",
+        "created_at": "2023-09-06T11:55:18.372Z",
+        "updated_at": "2023-09-06T06:28:40.451Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "88b0738f-d093-461f-abc4-56da10cc9036",
+        "email": "Gina_Murray@gmail.com",
+        "firstName": "Chyna",
+        "lastName": "Reichert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76620850",
+        "tenantId": null
+      },
+      {
+        "reference": "b1a7977c-7aa2-44b8-b6bb-2a1b69cce051",
+        "email": "Mireya.Von@yahoo.com",
+        "firstName": "Raphael",
+        "lastName": "Kihn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/445.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "32c33979-f111-462e-b10e-3f1c95a87621",
+        "email": "Ryley.Konopelski@gmail.com",
+        "firstName": "Diego",
+        "lastName": "Jakubowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/904.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "be250aac-470e-4e25-837e-3fab9c8789b5",
+        "email": "Rossie31@hotmail.com",
+        "firstName": "Nicholaus",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/414.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b0412a07-8892-416d-9a77-923902ed5d24",
+        "email": "Britney_Bernier@hotmail.com",
+        "firstName": "Lisa",
+        "lastName": "Bins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87228470",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "politician": [
+      {
+        "id": "012856b9-abf3-4847-86fe-daf8fb48f4ca",
+        "biography": "Experienced politician with a passion for public service",
+        "current_position": "Senator",
+        "work_process": "Implemented policies to reduce crime rates",
+        "created_at": "2023-09-05T16:46:31.898Z",
+        "updated_at": "2023-09-06T10:16:01.229Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f2a36d00-e486-404d-a0ce-a4d1bb3b7d4f",
+        "biography": "Advocate for social justice and equality",
+        "current_position": "Governor",
+        "work_process": "Led successful campaigns for healthcare reform",
+        "created_at": "2023-09-06T09:55:31.943Z",
+        "updated_at": "2023-09-06T04:33:57.218Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae09ac32-a202-440c-9747-948fb5bddcc2",
+        "biography": "Committed to improving education for all",
+        "current_position": "Mayor",
+        "work_process": "Advocated for affordable housing initiatives",
+        "created_at": "2023-09-05T19:01:14.046Z",
+        "updated_at": "2023-09-06T02:49:08.342Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "582f4e23-a5d6-45a8-b32e-d6ef9f8bd2b2",
+        "biography": "Champion for environmental sustainability",
+        "current_position": "Congressman",
+        "work_process": "Promoted renewable energy sources",
+        "created_at": "2023-09-06T04:02:45.826Z",
+        "updated_at": "2023-09-06T02:42:42.833Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16dcf330-b186-4e2e-aa3d-bbba0b246656",
+        "biography": "Dedicated to economic growth and job creation",
+        "current_position": "Councilmember",
+        "work_process": "Supported small business development",
+        "created_at": "2023-09-06T06:18:07.572Z",
+        "updated_at": "2023-09-06T01:23:51.449Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "60ae575c-ca5d-4061-88da-b7c20b5bee04",
+        "daily_usage": 70407,
+        "weekly_usage": 86498,
+        "monthly_usage": 87485,
+        "created_at": "2023-09-06T00:52:51.987Z",
+        "updated_at": "2023-09-06T13:47:48.868Z",
+        "politician_id": "16dcf330-b186-4e2e-aa3d-bbba0b246656"
+      },
+      {
+        "id": "4ad11fd5-4a6e-4029-bdbf-a75a3eb7a2fc",
+        "daily_usage": 26910,
+        "weekly_usage": 27000,
+        "monthly_usage": 84959,
+        "created_at": "2023-09-05T17:06:48.732Z",
+        "updated_at": "2023-09-06T10:52:59.748Z",
+        "politician_id": "16dcf330-b186-4e2e-aa3d-bbba0b246656"
+      },
+      {
+        "id": "eb383021-0794-4223-8bd4-33ef736ba409",
+        "daily_usage": 43388,
+        "weekly_usage": 12318,
+        "monthly_usage": 89818,
+        "created_at": "2023-09-06T00:45:27.534Z",
+        "updated_at": "2023-09-06T11:24:15.043Z",
+        "politician_id": "f2a36d00-e486-404d-a0ce-a4d1bb3b7d4f"
+      },
+      {
+        "id": "e0b93863-2f7a-4b63-9b7f-53aa7116223f",
+        "daily_usage": 685,
+        "weekly_usage": 93758,
+        "monthly_usage": 79518,
+        "created_at": "2023-09-06T13:58:49.728Z",
+        "updated_at": "2023-09-06T13:29:04.961Z",
+        "politician_id": "16dcf330-b186-4e2e-aa3d-bbba0b246656"
+      },
+      {
+        "id": "e0d5c699-021a-4a62-a037-c827af592164",
+        "daily_usage": 42296,
+        "weekly_usage": 65585,
+        "monthly_usage": 6564,
+        "created_at": "2023-09-06T00:43:07.504Z",
+        "updated_at": "2023-09-06T12:15:26.026Z",
+        "politician_id": "582f4e23-a5d6-45a8-b32e-d6ef9f8bd2b2"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "a963d5f0-b818-4aa7-8ece-7806c124934e",
+        "performance_score": 18674,
+        "demand_score": 34456,
+        "assessment_date": "2023-09-06T01:17:57.473Z",
+        "created_at": "2023-09-05T20:54:08.183Z",
+        "updated_at": "2023-09-06T12:27:57.296Z",
+        "politician_id": "16dcf330-b186-4e2e-aa3d-bbba0b246656"
+      },
+      {
+        "id": "7169e376-d460-4027-b464-c01619a0cc0c",
+        "performance_score": 3445,
+        "demand_score": 26429,
+        "assessment_date": "2023-09-05T16:26:11.613Z",
+        "created_at": "2023-09-05T16:04:53.459Z",
+        "updated_at": "2023-09-06T06:55:45.326Z",
+        "politician_id": "582f4e23-a5d6-45a8-b32e-d6ef9f8bd2b2"
+      },
+      {
+        "id": "aaea93f6-4512-4198-a664-2beb2d3855cd",
+        "performance_score": 78326,
+        "demand_score": 17826,
+        "assessment_date": "2023-09-06T06:42:55.364Z",
+        "created_at": "2023-09-05T16:06:06.747Z",
+        "updated_at": "2023-09-05T19:02:23.545Z",
+        "politician_id": "f2a36d00-e486-404d-a0ce-a4d1bb3b7d4f"
+      },
+      {
+        "id": "9294bbdf-8ecd-43ff-b886-4d2137c59d36",
+        "performance_score": 36897,
+        "demand_score": 27234,
+        "assessment_date": "2023-09-06T09:57:06.746Z",
+        "created_at": "2023-09-05T20:55:12.059Z",
+        "updated_at": "2023-09-06T06:53:22.146Z",
+        "politician_id": "f2a36d00-e486-404d-a0ce-a4d1bb3b7d4f"
+      },
+      {
+        "id": "6a5d26d6-c49e-45e8-8a14-353c591f8475",
+        "performance_score": 75412,
+        "demand_score": 59500,
+        "assessment_date": "2023-09-06T00:55:09.218Z",
+        "created_at": "2023-09-05T21:39:53.697Z",
+        "updated_at": "2023-09-06T04:37:00.986Z",
+        "politician_id": "ae09ac32-a202-440c-9747-948fb5bddcc2"
+      }
+    ],
+    "guest": [
+      {
+        "id": "d94e8d8d-0347-40d8-a79f-b5794876dd5e",
+        "search_history": "Politics",
+        "viewed_profiles": "Politician A",
+        "created_at": "2023-09-06T04:36:37.069Z",
+        "updated_at": "2023-09-06T01:15:10.114Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "89fe6b5c-33b9-4bd0-9597-f3b45a21e20c",
+        "search_history": "Climate change",
+        "viewed_profiles": "Organization B",
+        "created_at": "2023-09-06T04:47:41.552Z",
+        "updated_at": "2023-09-06T06:44:30.944Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aaf8857d-d1ea-4ed6-9ae5-0736e1f6e779",
+        "search_history": "Education reform",
+        "viewed_profiles": "Politician C",
+        "created_at": "2023-09-06T14:36:59.207Z",
+        "updated_at": "2023-09-05T16:50:56.962Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dc086e75-359e-4e08-8977-935d1215da5b",
+        "search_history": "Healthcare policy",
+        "viewed_profiles": "Organization D",
+        "created_at": "2023-09-05T21:12:11.414Z",
+        "updated_at": "2023-09-06T13:11:55.156Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a87f143-396a-4c7d-b868-567f0eed87c2",
+        "search_history": "Economic development",
+        "viewed_profiles": "Politician E",
+        "created_at": "2023-09-06T06:49:03.041Z",
+        "updated_at": "2023-09-06T03:08:49.947Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c91fe3bf-0a5a-42b4-9346-2290b08f80cc",
+        "email": "Chelsey.Gleason@gmail.com",
+        "firstName": "Desmond",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/144.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "98ae701b-29a4-4a02-8e94-0cea2a447fc1",
+        "email": "Easter.Barrows@yahoo.com",
+        "firstName": "Larissa",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32738247",
+        "tenantId": null
+      },
+      {
+        "reference": "c53cb8c1-6ebe-43da-9056-1915471fc936",
+        "email": "Warren.Wintheiser56@yahoo.com",
+        "firstName": "Ahmad",
+        "lastName": "Schuppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62521388",
+        "tenantId": null
+      },
+      {
+        "reference": "871091ef-76c2-420f-b6f5-af52b1d71015",
+        "email": "Verdie.Roberts75@hotmail.com",
+        "firstName": "Carolina",
+        "lastName": "Bahringer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/15.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8242499c-e50d-4831-b1ff-68c9952a7a1b",
+        "email": "Viviane.Hermann@yahoo.com",
+        "firstName": "Arne",
+        "lastName": "Zboncak",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/725.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "politician": [
+      {
+        "id": "e6758d7c-fd17-48b2-acb7-f91a5b52c769",
+        "biography": "Experienced politician with a strong track record.",
+        "current_position": "Senator",
+        "work_process": "Implemented effective policies to improve education system.",
+        "created_at": "2023-09-05T16:04:48.655Z",
+        "updated_at": "2023-09-06T15:23:12.313Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "761ddb8f-0b85-4af6-b8c8-079e23c28e53",
+        "biography": "Passionate about serving the community and making a difference.",
+        "current_position": "Congressman",
+        "work_process": "Championed environmental protection initiatives.",
+        "created_at": "2023-09-05T18:55:27.802Z",
+        "updated_at": "2023-09-06T08:07:46.720Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "31327f49-98e4-455f-88e7-8323feaff1fd",
+        "biography": "Committed to transparency and accountability in politics.",
+        "current_position": "Governor",
+        "work_process": "Led successful economic development projects.",
+        "created_at": "2023-09-05T21:21:49.128Z",
+        "updated_at": "2023-09-06T01:07:15.942Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f92a9513-1f89-45f3-8b5c-27c21847f258",
+        "biography": "Advocating for policies that benefit all citizens.",
+        "current_position": "Mayor",
+        "work_process": "Advocated for healthcare reforms.",
+        "created_at": "2023-09-05T20:24:31.495Z",
+        "updated_at": "2023-09-05T21:51:42.855Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "79cf0e3a-358f-44e0-9f4c-7f33e30e1b90",
+        "biography": "Dedicated to promoting equality and social justice.",
+        "current_position": "City Council Member",
+        "work_process": "Supported legislation to address social issues.",
+        "created_at": "2023-09-05T15:54:24.635Z",
+        "updated_at": "2023-09-06T04:13:46.254Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "55c8d150-9156-4e71-9dec-e2c484b674b2",
+        "daily_usage": 56868,
+        "weekly_usage": 70422,
+        "monthly_usage": 77765,
+        "created_at": "2023-09-06T10:51:29.718Z",
+        "updated_at": "2023-09-06T11:14:07.145Z",
+        "politician_id": "f92a9513-1f89-45f3-8b5c-27c21847f258"
+      },
+      {
+        "id": "2fdb22b3-4498-4152-a2ac-bba9fdceeef4",
+        "daily_usage": 80672,
+        "weekly_usage": 52841,
+        "monthly_usage": 77025,
+        "created_at": "2023-09-05T20:35:36.157Z",
+        "updated_at": "2023-09-05T20:51:59.885Z",
+        "politician_id": "31327f49-98e4-455f-88e7-8323feaff1fd"
+      },
+      {
+        "id": "521fd7cb-faaf-4836-858e-164cdf0ce0a6",
+        "daily_usage": 19576,
+        "weekly_usage": 19785,
+        "monthly_usage": 1551,
+        "created_at": "2023-09-05T17:32:12.363Z",
+        "updated_at": "2023-09-06T01:15:11.706Z",
+        "politician_id": "761ddb8f-0b85-4af6-b8c8-079e23c28e53"
+      },
+      {
+        "id": "58a5cb21-fa74-4ffc-963b-7e7bb8b97d12",
+        "daily_usage": 57762,
+        "weekly_usage": 73941,
+        "monthly_usage": 39905,
+        "created_at": "2023-09-06T00:40:28.916Z",
+        "updated_at": "2023-09-05T21:17:54.026Z",
+        "politician_id": "f92a9513-1f89-45f3-8b5c-27c21847f258"
+      },
+      {
+        "id": "0ad4e50b-ea21-4af2-bdd6-408024d89aff",
+        "daily_usage": 59255,
+        "weekly_usage": 24443,
+        "monthly_usage": 73903,
+        "created_at": "2023-09-06T14:29:11.219Z",
+        "updated_at": "2023-09-06T00:34:19.162Z",
+        "politician_id": "31327f49-98e4-455f-88e7-8323feaff1fd"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "79c23cce-1887-4c0e-a09a-50ed7925e608",
+        "performance_score": 61405,
+        "demand_score": 60473,
+        "assessment_date": "2023-09-06T03:19:13.278Z",
+        "created_at": "2023-09-05T20:47:20.263Z",
+        "updated_at": "2023-09-06T04:17:45.596Z",
+        "politician_id": "f92a9513-1f89-45f3-8b5c-27c21847f258"
+      },
+      {
+        "id": "7c58b129-5e5a-41d2-8bc6-38592d1a89ee",
+        "performance_score": 72360,
+        "demand_score": 20808,
+        "assessment_date": "2023-09-06T10:00:29.228Z",
+        "created_at": "2023-09-06T04:35:50.415Z",
+        "updated_at": "2023-09-06T05:33:31.854Z",
+        "politician_id": "f92a9513-1f89-45f3-8b5c-27c21847f258"
+      },
+      {
+        "id": "a344e638-15bb-4f50-8f26-fd5bcd534b45",
+        "performance_score": 79898,
+        "demand_score": 22646,
+        "assessment_date": "2023-09-05T19:15:00.373Z",
+        "created_at": "2023-09-06T01:31:41.889Z",
+        "updated_at": "2023-09-05T21:24:21.082Z",
+        "politician_id": "e6758d7c-fd17-48b2-acb7-f91a5b52c769"
+      },
+      {
+        "id": "bef0457d-474f-4215-9b4a-7e1308e4a7cc",
+        "performance_score": 69268,
+        "demand_score": 27542,
+        "assessment_date": "2023-09-06T10:49:31.818Z",
+        "created_at": "2023-09-06T07:12:34.014Z",
+        "updated_at": "2023-09-05T19:20:16.024Z",
+        "politician_id": "e6758d7c-fd17-48b2-acb7-f91a5b52c769"
+      },
+      {
+        "id": "fbaff63c-7844-45d3-a212-8ba2bf91c671",
+        "performance_score": 53413,
+        "demand_score": 22049,
+        "assessment_date": "2023-09-06T09:00:35.411Z",
+        "created_at": "2023-09-06T02:04:39.131Z",
+        "updated_at": "2023-09-06T05:53:04.862Z",
+        "politician_id": "e6758d7c-fd17-48b2-acb7-f91a5b52c769"
+      }
+    ],
+    "guest": [
+      {
+        "id": "cea36725-a191-4b45-9f46-4f3b42eff063",
+        "search_history": "Politics",
+        "viewed_profiles": "John Doe",
+        "created_at": "2023-09-06T00:38:41.834Z",
+        "updated_at": "2023-09-06T04:32:24.151Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f92a166-e220-4fc4-be0b-1c18e9b0efc8",
+        "search_history": "Climate change",
+        "viewed_profiles": "Jane Smith",
+        "created_at": "2023-09-05T19:44:15.468Z",
+        "updated_at": "2023-09-06T03:17:20.411Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f3a0f91-7922-4e4d-9d6a-4a9e98efd208",
+        "search_history": "Education reform",
+        "viewed_profiles": "Michael Brown",
+        "created_at": "2023-09-06T05:39:21.137Z",
+        "updated_at": "2023-09-06T01:06:19.823Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5dc85c76-0529-4b24-8758-8f91e53d4c13",
+        "search_history": "Healthcare policies",
+        "viewed_profiles": "Sarah Jones",
+        "created_at": "2023-09-06T07:38:59.649Z",
+        "updated_at": "2023-09-06T11:12:36.981Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e6cf7778-75a0-41d8-9030-663bf9b08019",
+        "search_history": "Social justice",
+        "viewed_profiles": "David Wilson",
+        "created_at": "2023-09-06T02:18:00.224Z",
+        "updated_at": "2023-09-06T07:08:31.722Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e5e6e798-b7e5-43ab-886b-9250f6b4c715",
+        "email": "Alek37@hotmail.com",
+        "firstName": "Anne",
+        "lastName": "Simonis-Streich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/891.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "652aaabe-4d62-4e7d-b25a-0429ab53de8f",
+        "email": "Eldred69@yahoo.com",
+        "firstName": "Moshe",
+        "lastName": "Pfeffer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13003068",
+        "tenantId": null
+      },
+      {
+        "reference": "93beaa29-2a81-45b5-b81f-dee1012c92d1",
+        "email": "Markus.Kiehn-Keeling@yahoo.com",
+        "firstName": "Clarabelle",
+        "lastName": "Hessel-Schaden",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92616614",
+        "tenantId": null
+      },
+      {
+        "reference": "4626f4a5-d16d-467c-b7e5-fab094043c0c",
+        "email": "Mallory13@hotmail.com",
+        "firstName": "Donny",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/881.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f3e63652-af1f-4729-bfaa-cadd5b620ad5",
+        "email": "Laurianne.Senger-Bosco@gmail.com",
+        "firstName": "Keshawn",
+        "lastName": "Predovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46551205",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "politician": [
+      {
+        "id": "7a180923-b5ae-4367-a41f-02d9bd76e4f7",
+        "biography": "Experienced politician with a passion for public service",
+        "current_position": "Senator",
+        "work_process": "Implemented policies to reduce crime rates",
+        "created_at": "2023-09-05T19:53:45.193Z",
+        "updated_at": "2023-09-06T09:01:16.533Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b7f441d-3a23-4608-b70b-daacac4bf77b",
+        "biography": "Advocate for social justice and equality",
+        "current_position": "Governor",
+        "work_process": "Led successful economic development initiatives",
+        "created_at": "2023-09-05T15:44:50.843Z",
+        "updated_at": "2023-09-06T11:40:59.123Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e00ca857-86bc-4a9c-b2e9-abbc86973963",
+        "biography": "Committed to improving healthcare for all",
+        "current_position": "Mayor",
+        "work_process": "Advocated for affordable housing solutions",
+        "created_at": "2023-09-06T06:58:07.181Z",
+        "updated_at": "2023-09-05T17:21:49.887Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae3670fd-5cdf-46a7-8400-543831397899",
+        "biography": "Champion of environmental sustainability",
+        "current_position": "Congressman",
+        "work_process": "Supported legislation for renewable energy",
+        "created_at": "2023-09-05T15:45:12.330Z",
+        "updated_at": "2023-09-05T19:06:33.267Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82523571-3e44-427a-9372-64ce251c0295",
+        "biography": "Dedicated to education reform",
+        "current_position": "Councilmember",
+        "work_process": "Promoted STEM education",
+        "created_at": "2023-09-06T05:45:52.787Z",
+        "updated_at": "2023-09-06T04:13:53.031Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "cc995be8-edbc-46fc-a065-b4510110c304",
+        "daily_usage": 90692,
+        "weekly_usage": 33432,
+        "monthly_usage": 30631,
+        "created_at": "2023-09-06T07:49:07.899Z",
+        "updated_at": "2023-09-05T19:00:56.496Z",
+        "politician_id": "7a180923-b5ae-4367-a41f-02d9bd76e4f7"
+      },
+      {
+        "id": "6a20c169-de3c-4566-bab3-d6e1c9b67d6e",
+        "daily_usage": 15299,
+        "weekly_usage": 33691,
+        "monthly_usage": 44939,
+        "created_at": "2023-09-05T20:35:45.561Z",
+        "updated_at": "2023-09-06T15:22:23.676Z",
+        "politician_id": "82523571-3e44-427a-9372-64ce251c0295"
+      },
+      {
+        "id": "f54d26af-b0f2-4594-a793-9aacbd1d0b65",
+        "daily_usage": 2173,
+        "weekly_usage": 49660,
+        "monthly_usage": 87100,
+        "created_at": "2023-09-06T00:20:39.410Z",
+        "updated_at": "2023-09-05T20:07:29.150Z",
+        "politician_id": "ae3670fd-5cdf-46a7-8400-543831397899"
+      },
+      {
+        "id": "91ef004f-5669-4f95-9540-1f42729e7e3d",
+        "daily_usage": 95757,
+        "weekly_usage": 79787,
+        "monthly_usage": 62522,
+        "created_at": "2023-09-05T18:09:40.636Z",
+        "updated_at": "2023-09-06T10:10:37.256Z",
+        "politician_id": "7a180923-b5ae-4367-a41f-02d9bd76e4f7"
+      },
+      {
+        "id": "062294bc-c4ec-4375-9225-2e9b4d71d737",
+        "daily_usage": 46832,
+        "weekly_usage": 59686,
+        "monthly_usage": 14568,
+        "created_at": "2023-09-05T22:49:31.880Z",
+        "updated_at": "2023-09-06T05:00:45.493Z",
+        "politician_id": "7a180923-b5ae-4367-a41f-02d9bd76e4f7"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "4513730d-28cb-42b4-87ec-3f63922a0f51",
+        "performance_score": 2459,
+        "demand_score": 63462,
+        "assessment_date": "2023-09-05T19:57:52.072Z",
+        "created_at": "2023-09-05T16:55:52.143Z",
+        "updated_at": "2023-09-05T19:20:39.085Z",
+        "politician_id": "ae3670fd-5cdf-46a7-8400-543831397899"
+      },
+      {
+        "id": "a42e908f-20d2-4885-b0ab-bd54ec8dd578",
+        "performance_score": 39922,
+        "demand_score": 86757,
+        "assessment_date": "2023-09-06T11:58:18.042Z",
+        "created_at": "2023-09-06T15:20:39.347Z",
+        "updated_at": "2023-09-06T02:57:17.414Z",
+        "politician_id": "8b7f441d-3a23-4608-b70b-daacac4bf77b"
+      },
+      {
+        "id": "cd0acae9-46cd-4dd4-8957-d2e02d547638",
+        "performance_score": 81,
+        "demand_score": 60853,
+        "assessment_date": "2023-09-05T17:52:43.599Z",
+        "created_at": "2023-09-05T17:53:08.209Z",
+        "updated_at": "2023-09-06T00:12:22.223Z",
+        "politician_id": "8b7f441d-3a23-4608-b70b-daacac4bf77b"
+      },
+      {
+        "id": "b56e8b70-f9a4-41ba-a443-47304f0e09fe",
+        "performance_score": 3288,
+        "demand_score": 90105,
+        "assessment_date": "2023-09-06T10:36:50.641Z",
+        "created_at": "2023-09-06T13:43:47.010Z",
+        "updated_at": "2023-09-05T23:01:42.383Z",
+        "politician_id": "ae3670fd-5cdf-46a7-8400-543831397899"
+      },
+      {
+        "id": "8a654010-9ea6-4c44-9f27-de505236a1e7",
+        "performance_score": 78627,
+        "demand_score": 31511,
+        "assessment_date": "2023-09-06T13:22:30.336Z",
+        "created_at": "2023-09-06T01:35:06.025Z",
+        "updated_at": "2023-09-06T13:00:38.249Z",
+        "politician_id": "82523571-3e44-427a-9372-64ce251c0295"
+      }
+    ],
+    "guest": [
+      {
+        "id": "7bdf2ea3-3a70-4af4-8c01-3d4b78fc37f1",
+        "search_history": "Politics",
+        "viewed_profiles": "John Doe",
+        "created_at": "2023-09-05T20:21:07.228Z",
+        "updated_at": "2023-09-06T02:52:31.475Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b572e664-7221-4274-b7b1-b65ba7dba75a",
+        "search_history": "Healthcare",
+        "viewed_profiles": "Mary Smith",
+        "created_at": "2023-09-06T10:12:11.221Z",
+        "updated_at": "2023-09-06T01:29:54.096Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da621322-11b2-4e28-a2fb-c93c57f7a05c",
+        "search_history": "Climate Change",
+        "viewed_profiles": "Alex Johnson",
+        "created_at": "2023-09-06T13:49:04.364Z",
+        "updated_at": "2023-09-06T07:08:30.192Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4dc02bd0-86db-4f10-819f-58bb54ba3031",
+        "search_history": "Education",
+        "viewed_profiles": "Sarah Brown",
+        "created_at": "2023-09-05T17:00:04.080Z",
+        "updated_at": "2023-09-06T03:17:18.085Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39b8364e-3c1a-4167-92d8-a10b0e9e917d",
+        "search_history": "Economy",
+        "viewed_profiles": "David Wilson",
+        "created_at": "2023-09-06T00:53:06.700Z",
+        "updated_at": "2023-09-05T19:34:24.379Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fb1b5001-46e1-4cc7-a964-df9561ebd495",
+        "email": "Rae.Cruickshank@yahoo.com",
+        "firstName": "Nico",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/182.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "35abe828-7f01-4421-b45f-e850fd5fcfc5",
+        "email": "Jules.Mills91@hotmail.com",
+        "firstName": "Jessika",
+        "lastName": "Kuhn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/430.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3b6b815e-52ab-469d-a4b0-1110b3c09d41",
+        "email": "Blanche74@hotmail.com",
+        "firstName": "Elta",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1069.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4b7c966e-b35f-47a6-9aad-5b1bf54d705b",
+        "email": "Jackie_Beahan@yahoo.com",
+        "firstName": "Beatrice",
+        "lastName": "Gutmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/463.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3e6d53b3-d602-4067-aa8b-bf30dc002032",
+        "email": "Lukas14@yahoo.com",
+        "firstName": "Ned",
+        "lastName": "Klocko",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63008531",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "politician": [
+      {
+        "id": "6132e07b-c58a-402e-8208-3b63db88d9a9",
+        "biography": "Experienced politician with a strong commitment to public service.",
+        "current_position": "Senator",
+        "work_process": "Introduced legislation to address pressing issues facing the community.",
+        "created_at": "2023-09-06T09:02:02.742Z",
+        "updated_at": "2023-09-06T05:44:26.661Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6594bae0-ddc6-4cff-8cf8-5a238ff9936a",
+        "biography": "Passionate about creating positive change in the community.",
+        "current_position": "Congressman",
+        "work_process": "Collaborated with stakeholders to develop comprehensive policy solutions.",
+        "created_at": "2023-09-05T22:55:52.784Z",
+        "updated_at": "2023-09-05T18:08:26.387Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f1d99e39-0f97-4134-96ff-7a300682aaab",
+        "biography": "Dedicated to improving the lives of constituents through effective policy-making.",
+        "current_position": "Governor",
+        "work_process": "Advocated for increased funding for education and healthcare.",
+        "created_at": "2023-09-06T11:59:32.528Z",
+        "updated_at": "2023-09-06T14:06:35.368Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c736217-f3e2-4fd6-b67b-1dd60a28c4df",
+        "biography": "Advocate for transparency and accountability in government.",
+        "current_position": "Mayor",
+        "work_process": "Implemented initiatives to promote economic growth and job creation.",
+        "created_at": "2023-09-05T19:07:41.326Z",
+        "updated_at": "2023-09-06T03:37:24.784Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "470d8975-2913-48d8-a636-2564d85b04f7",
+        "biography": "Committed to working collaboratively with colleagues to achieve common goals.",
+        "current_position": "City Council Member",
+        "work_process": "Engaged with constituents through town hall meetings and community outreach programs.",
+        "created_at": "2023-09-06T05:42:25.973Z",
+        "updated_at": "2023-09-05T18:01:52.774Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "c249bcaf-e9b1-4234-8249-98d64d202406",
+        "daily_usage": 697,
+        "weekly_usage": 46706,
+        "monthly_usage": 76389,
+        "created_at": "2023-09-06T08:50:28.623Z",
+        "updated_at": "2023-09-06T06:34:06.259Z",
+        "politician_id": "f1d99e39-0f97-4134-96ff-7a300682aaab"
+      },
+      {
+        "id": "8b1fb108-24cf-4519-b5a1-ca952f8d6158",
+        "daily_usage": 63997,
+        "weekly_usage": 67202,
+        "monthly_usage": 67197,
+        "created_at": "2023-09-06T02:40:08.084Z",
+        "updated_at": "2023-09-06T13:06:21.912Z",
+        "politician_id": "6132e07b-c58a-402e-8208-3b63db88d9a9"
+      },
+      {
+        "id": "a5c7378d-72a4-4b99-ab40-d4537b5b5ca9",
+        "daily_usage": 85176,
+        "weekly_usage": 4762,
+        "monthly_usage": 53476,
+        "created_at": "2023-09-05T20:48:33.644Z",
+        "updated_at": "2023-09-06T04:29:02.370Z",
+        "politician_id": "6132e07b-c58a-402e-8208-3b63db88d9a9"
+      },
+      {
+        "id": "f9e3a190-6685-4a6b-8b07-8cc9e74874fe",
+        "daily_usage": 43640,
+        "weekly_usage": 81278,
+        "monthly_usage": 84444,
+        "created_at": "2023-09-06T10:35:09.744Z",
+        "updated_at": "2023-09-06T11:45:17.713Z",
+        "politician_id": "470d8975-2913-48d8-a636-2564d85b04f7"
+      },
+      {
+        "id": "1efb14e9-b216-4b88-8f04-4be212f79f40",
+        "daily_usage": 34872,
+        "weekly_usage": 462,
+        "monthly_usage": 69341,
+        "created_at": "2023-09-05T19:33:10.678Z",
+        "updated_at": "2023-09-06T02:18:26.542Z",
+        "politician_id": "6132e07b-c58a-402e-8208-3b63db88d9a9"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "56c264d7-a260-4f71-950a-79487ada9ba4",
+        "performance_score": 1283,
+        "demand_score": 31876,
+        "assessment_date": "2023-09-06T07:04:32.715Z",
+        "created_at": "2023-09-06T10:35:51.439Z",
+        "updated_at": "2023-09-05T20:07:19.065Z",
+        "politician_id": "0c736217-f3e2-4fd6-b67b-1dd60a28c4df"
+      },
+      {
+        "id": "eb74b9e4-144a-4f54-a3b9-ea8fa3add906",
+        "performance_score": 22812,
+        "demand_score": 24867,
+        "assessment_date": "2023-09-05T17:41:24.181Z",
+        "created_at": "2023-09-05T20:23:33.528Z",
+        "updated_at": "2023-09-06T06:34:43.850Z",
+        "politician_id": "f1d99e39-0f97-4134-96ff-7a300682aaab"
+      },
+      {
+        "id": "6589c623-854d-488b-a947-d11404ea101a",
+        "performance_score": 9851,
+        "demand_score": 54134,
+        "assessment_date": "2023-09-06T13:15:34.005Z",
+        "created_at": "2023-09-06T02:46:08.888Z",
+        "updated_at": "2023-09-06T01:34:03.233Z",
+        "politician_id": "470d8975-2913-48d8-a636-2564d85b04f7"
+      },
+      {
+        "id": "94570472-60fd-4f95-b501-5cadbd43066c",
+        "performance_score": 39962,
+        "demand_score": 46190,
+        "assessment_date": "2023-09-06T00:55:14.802Z",
+        "created_at": "2023-09-06T07:20:49.055Z",
+        "updated_at": "2023-09-05T20:57:58.096Z",
+        "politician_id": "0c736217-f3e2-4fd6-b67b-1dd60a28c4df"
+      },
+      {
+        "id": "51582c38-53e4-44bc-bfa4-4b4a2f5e2e0f",
+        "performance_score": 44856,
+        "demand_score": 28643,
+        "assessment_date": "2023-09-06T03:05:44.130Z",
+        "created_at": "2023-09-06T03:08:27.561Z",
+        "updated_at": "2023-09-06T05:46:26.495Z",
+        "politician_id": "470d8975-2913-48d8-a636-2564d85b04f7"
+      }
+    ],
+    "guest": [
+      {
+        "id": "007f6394-a055-4880-82fe-ec0022026582",
+        "search_history": "Climate change solutions",
+        "viewed_profiles": "John Smith (Politician)",
+        "created_at": "2023-09-06T10:44:52.697Z",
+        "updated_at": "2023-09-06T12:35:33.843Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fc746f5-4583-4868-8e28-05ea7a308801",
+        "search_history": "Technology trends",
+        "viewed_profiles": "Tech Innovators Inc. (Organization)",
+        "created_at": "2023-09-06T06:42:31.157Z",
+        "updated_at": "2023-09-05T21:53:56.956Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e5d59de5-3d34-4382-9e08-588f0cd1df7a",
+        "search_history": "Healthcare reform",
+        "viewed_profiles": "Jane Doe (User)",
+        "created_at": "2023-09-05T22:40:00.294Z",
+        "updated_at": "2023-09-05T23:39:13.231Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2b6c5f4c-f183-490f-b1a1-c31b9a5257cb",
+        "search_history": "Humanitarian aid organizations",
+        "viewed_profiles": "Global Aid Organization (Organization)",
+        "created_at": "2023-09-05T21:12:22.651Z",
+        "updated_at": "2023-09-06T08:52:03.659Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7695707-3a74-4ea5-90f7-565aee4050dd",
+        "search_history": "Scientific breakthroughs",
+        "viewed_profiles": "Sarah Jones (Politician)",
+        "created_at": "2023-09-06T01:43:16.617Z",
+        "updated_at": "2023-09-06T10:18:18.154Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "abac47e7-3e78-42a8-9bdc-8fda7a5acf9a",
+        "email": "Orion94@gmail.com",
+        "firstName": "Orville",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/652.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4aa4d6d0-6981-4aa8-9ea6-c05fe22c2a93",
+        "email": "Lauryn67@gmail.com",
+        "firstName": "Beulah",
+        "lastName": "Prohaska",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27767463",
+        "tenantId": null
+      },
+      {
+        "reference": "7479e824-da6e-4d7e-a2df-a1b304ae9cc3",
+        "email": "Ulises.Hansen37@hotmail.com",
+        "firstName": "Vernice",
+        "lastName": "Walsh",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6671983",
+        "tenantId": null
+      },
+      {
+        "reference": "332741d7-47cc-467b-be8c-48becca4367e",
+        "email": "Jamil69@yahoo.com",
+        "firstName": "Micaela",
+        "lastName": "Mayert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/820.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "706880b1-4fbb-40dd-853c-ba8978ff8275",
+        "email": "Rosa.Monahan50@hotmail.com",
+        "firstName": "Austen",
+        "lastName": "Sporer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/680.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "politician": [
+      {
+        "id": "231eec17-967c-4977-890a-129add18bdc2",
+        "biography": "Experienced politician with a passion for public service",
+        "current_position": "Member of Parliament",
+        "work_process": "Drafting legislation to address pressing issues",
+        "created_at": "2023-09-06T06:16:57.461Z",
+        "updated_at": "2023-09-06T14:14:12.800Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1ece9687-d8e9-46a3-9578-bb1dd2f9b3ba",
+        "biography": "Advocate for social justice and equality",
+        "current_position": "Senator",
+        "work_process": "Collaborating with stakeholders to find common ground",
+        "created_at": "2023-09-05T19:03:52.310Z",
+        "updated_at": "2023-09-06T10:28:58.323Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "432f2472-c227-428e-86d6-18459349605e",
+        "biography": "Committed to improving healthcare and education",
+        "current_position": "Governor",
+        "work_process": "Advocating for constituents' needs and concerns",
+        "created_at": "2023-09-05T16:57:38.818Z",
+        "updated_at": "2023-09-06T13:45:49.495Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "095c9c78-7f82-45e7-8e92-cae34d216209",
+        "biography": "Champion for environmental protection and sustainability",
+        "current_position": "Minister of Finance",
+        "work_process": "Implementing policies to drive positive change",
+        "created_at": "2023-09-06T04:33:17.991Z",
+        "updated_at": "2023-09-05T19:11:19.449Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44e7dea5-aad3-4fce-834d-2e277920031a",
+        "biography": "Dedicated to promoting economic growth and job creation",
+        "current_position": "Mayor",
+        "work_process": "Engaging with the public through town hall meetings",
+        "created_at": "2023-09-06T08:43:33.979Z",
+        "updated_at": "2023-09-06T04:27:07.497Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "7d01208d-9521-41bc-ad14-db3a8ef9b022",
+        "daily_usage": 62810,
+        "weekly_usage": 11983,
+        "monthly_usage": 87392,
+        "created_at": "2023-09-05T23:34:21.052Z",
+        "updated_at": "2023-09-06T08:26:57.129Z",
+        "politician_id": "1ece9687-d8e9-46a3-9578-bb1dd2f9b3ba"
+      },
+      {
+        "id": "690bfbb6-83db-4671-9d90-706a8db26285",
+        "daily_usage": 1154,
+        "weekly_usage": 21614,
+        "monthly_usage": 13427,
+        "created_at": "2023-09-06T04:52:37.129Z",
+        "updated_at": "2023-09-05T21:17:30.493Z",
+        "politician_id": "432f2472-c227-428e-86d6-18459349605e"
+      },
+      {
+        "id": "ed65d2c6-50b1-4880-b243-e2e651807ebb",
+        "daily_usage": 79486,
+        "weekly_usage": 58323,
+        "monthly_usage": 92890,
+        "created_at": "2023-09-06T00:47:45.205Z",
+        "updated_at": "2023-09-06T14:51:53.992Z",
+        "politician_id": "231eec17-967c-4977-890a-129add18bdc2"
+      },
+      {
+        "id": "25558abc-b0df-4928-ba01-13be8a00d4e0",
+        "daily_usage": 56842,
+        "weekly_usage": 98129,
+        "monthly_usage": 86975,
+        "created_at": "2023-09-06T08:42:56.989Z",
+        "updated_at": "2023-09-06T09:41:07.551Z",
+        "politician_id": "432f2472-c227-428e-86d6-18459349605e"
+      },
+      {
+        "id": "4ea8026d-fd91-4346-b4ec-52740d33c98c",
+        "daily_usage": 82308,
+        "weekly_usage": 25365,
+        "monthly_usage": 17617,
+        "created_at": "2023-09-06T04:39:31.259Z",
+        "updated_at": "2023-09-05T19:34:33.737Z",
+        "politician_id": "231eec17-967c-4977-890a-129add18bdc2"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "75a0991b-99c6-4586-81c5-de96864fc73e",
+        "performance_score": 38811,
+        "demand_score": 23100,
+        "assessment_date": "2023-09-06T08:30:19.022Z",
+        "created_at": "2023-09-06T07:38:11.693Z",
+        "updated_at": "2023-09-05T22:07:33.099Z",
+        "politician_id": "1ece9687-d8e9-46a3-9578-bb1dd2f9b3ba"
+      },
+      {
+        "id": "5f7aead1-8327-434b-a1fc-25c17731fca9",
+        "performance_score": 70686,
+        "demand_score": 84512,
+        "assessment_date": "2023-09-05T22:05:27.741Z",
+        "created_at": "2023-09-06T03:05:47.143Z",
+        "updated_at": "2023-09-06T07:40:47.849Z",
+        "politician_id": "231eec17-967c-4977-890a-129add18bdc2"
+      },
+      {
+        "id": "afc377d6-9ffd-4ec9-85b6-d7bb4bdabebb",
+        "performance_score": 78814,
+        "demand_score": 22241,
+        "assessment_date": "2023-09-06T14:32:54.368Z",
+        "created_at": "2023-09-06T06:23:38.216Z",
+        "updated_at": "2023-09-05T16:28:05.634Z",
+        "politician_id": "231eec17-967c-4977-890a-129add18bdc2"
+      },
+      {
+        "id": "2e4ed445-2316-4fb3-9b60-efcc10f46d3d",
+        "performance_score": 84353,
+        "demand_score": 46205,
+        "assessment_date": "2023-09-05T21:55:17.547Z",
+        "created_at": "2023-09-06T04:29:43.717Z",
+        "updated_at": "2023-09-06T14:30:44.547Z",
+        "politician_id": "1ece9687-d8e9-46a3-9578-bb1dd2f9b3ba"
+      },
+      {
+        "id": "14eb6e80-11b2-4b8a-8d36-786bca2e879c",
+        "performance_score": 71549,
+        "demand_score": 21092,
+        "assessment_date": "2023-09-06T10:45:25.948Z",
+        "created_at": "2023-09-05T16:32:02.604Z",
+        "updated_at": "2023-09-06T03:19:35.793Z",
+        "politician_id": "095c9c78-7f82-45e7-8e92-cae34d216209"
+      }
+    ],
+    "guest": [
+      {
+        "id": "e9d05c4d-78ff-4cb7-8f3c-74200f277deb",
+        "search_history": "Climate change",
+        "viewed_profiles": "Politician A",
+        "created_at": "2023-09-06T15:14:10.933Z",
+        "updated_at": "2023-09-05T19:10:32.653Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d4fbe99-02b4-4934-adad-2be1c0a33618",
+        "search_history": "Healthcare reform",
+        "viewed_profiles": "Politician B",
+        "created_at": "2023-09-06T01:49:02.374Z",
+        "updated_at": "2023-09-06T10:32:51.480Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "938da6cf-769b-432d-9582-fa3dcb4a5b48",
+        "search_history": "Education funding",
+        "viewed_profiles": "Politician C",
+        "created_at": "2023-09-06T09:56:34.705Z",
+        "updated_at": "2023-09-06T05:05:09.858Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6bba3d76-fa5b-4d03-8bee-3680b79755f8",
+        "search_history": "Income inequality",
+        "viewed_profiles": "Politician D",
+        "created_at": "2023-09-06T02:45:23.818Z",
+        "updated_at": "2023-09-06T00:21:55.369Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "116ed6d2-3985-443d-a7fd-a0624bac5a63",
+        "search_history": "Criminal justice reform",
+        "viewed_profiles": "Politician E",
+        "created_at": "2023-09-06T08:43:53.335Z",
+        "updated_at": "2023-09-05T17:52:52.374Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "29769b4d-d581-475c-87dc-4b6740374b9d",
+        "email": "Ransom_Schaden85@gmail.com",
+        "firstName": "Jarret",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/976.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fcf65cc1-1487-4b96-9b0e-237679ce6f9b",
+        "email": "Ramona_Kassulke34@hotmail.com",
+        "firstName": "Gregoria",
+        "lastName": "Sauer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26837279",
+        "tenantId": null
+      },
+      {
+        "reference": "a5bf141b-2fce-4725-8895-d0abb0307c8c",
+        "email": "Deon.Konopelski42@gmail.com",
+        "firstName": "Rowan",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/403.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b3f33e97-597a-47ed-b4a1-7a7aba2f0f5f",
+        "email": "Mariam22@gmail.com",
+        "firstName": "Nathanial",
+        "lastName": "Wyman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14841067",
+        "tenantId": null
+      },
+      {
+        "reference": "4de2b4a7-776f-45c7-9f39-ceca8660f0ed",
+        "email": "Herbert.Langosh@hotmail.com",
+        "firstName": "Carolyne",
+        "lastName": "Kunze",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16961618",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "politician": [
+      {
+        "id": "15d5dbfa-58a2-4b69-9a5a-65a0146cfbd7",
+        "biography": "Experienced politician with a passion for public service.",
+        "current_position": "Senator",
+        "work_process": "Collaborating with colleagues to draft and pass legislation.",
+        "created_at": "2023-09-05T19:57:25.640Z",
+        "updated_at": "2023-09-05T19:52:32.844Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3093519b-89ec-41d7-9875-d30dd46d833a",
+        "biography": "Dedicated to improving the lives of constituents through effective policy-making.",
+        "current_position": "Governor",
+        "work_process": "Engaging with constituents to address their concerns and needs.",
+        "created_at": "2023-09-05T20:48:18.748Z",
+        "updated_at": "2023-09-06T02:43:10.440Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9eb6dcb3-40e7-401f-ae65-ab1cd608232d",
+        "biography": "Advocate for social justice and equality.",
+        "current_position": "Congressman",
+        "work_process": "Attending committee meetings and hearings to discuss important issues.",
+        "created_at": "2023-09-06T11:49:32.686Z",
+        "updated_at": "2023-09-06T10:26:33.279Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3420d315-a57a-411d-8031-f45be2709674",
+        "biography": "Committed to transparency and accountability in government.",
+        "current_position": "Mayor",
+        "work_process": "Meeting with stakeholders to gather input and make informed decisions.",
+        "created_at": "2023-09-06T09:19:57.679Z",
+        "updated_at": "2023-09-05T17:25:45.220Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "671ecf9d-3a34-4124-98e5-d55262a755cf",
+        "biography": "Champion for education and healthcare reform.",
+        "current_position": "City Council Member",
+        "work_process": "Advocating for policies that align with the interests of the community.",
+        "created_at": "2023-09-06T10:27:36.300Z",
+        "updated_at": "2023-09-06T04:37:55.286Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "0992d4c0-0317-46af-9941-1f3f5b1e0e79",
+        "daily_usage": 26428,
+        "weekly_usage": 90937,
+        "monthly_usage": 93281,
+        "created_at": "2023-09-06T03:36:29.208Z",
+        "updated_at": "2023-09-05T23:56:59.065Z",
+        "politician_id": "9eb6dcb3-40e7-401f-ae65-ab1cd608232d"
+      },
+      {
+        "id": "956b9c40-e553-4b38-989e-617ed64a6510",
+        "daily_usage": 77577,
+        "weekly_usage": 92076,
+        "monthly_usage": 28718,
+        "created_at": "2023-09-05T21:36:59.579Z",
+        "updated_at": "2023-09-06T07:05:42.484Z",
+        "politician_id": "15d5dbfa-58a2-4b69-9a5a-65a0146cfbd7"
+      },
+      {
+        "id": "dec77ed1-5cfb-4fb4-b8e4-47e9627a7e8d",
+        "daily_usage": 98274,
+        "weekly_usage": 85778,
+        "monthly_usage": 69076,
+        "created_at": "2023-09-06T05:15:16.444Z",
+        "updated_at": "2023-09-05T19:54:27.976Z",
+        "politician_id": "15d5dbfa-58a2-4b69-9a5a-65a0146cfbd7"
+      },
+      {
+        "id": "4d5222c4-7489-43f4-b39f-8d72685185c1",
+        "daily_usage": 17452,
+        "weekly_usage": 19685,
+        "monthly_usage": 65502,
+        "created_at": "2023-09-06T09:50:41.514Z",
+        "updated_at": "2023-09-06T05:40:19.300Z",
+        "politician_id": "15d5dbfa-58a2-4b69-9a5a-65a0146cfbd7"
+      },
+      {
+        "id": "184783ca-66ea-4c5d-a02f-6346810cd0e3",
+        "daily_usage": 32466,
+        "weekly_usage": 90955,
+        "monthly_usage": 73226,
+        "created_at": "2023-09-05T20:36:55.524Z",
+        "updated_at": "2023-09-05T18:55:14.602Z",
+        "politician_id": "671ecf9d-3a34-4124-98e5-d55262a755cf"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "0db5dcc2-1fb9-4e32-8ec3-f0250aed1fe7",
+        "performance_score": 65876,
+        "demand_score": 83380,
+        "assessment_date": "2023-09-06T04:05:48.021Z",
+        "created_at": "2023-09-05T20:36:42.279Z",
+        "updated_at": "2023-09-06T09:14:25.021Z",
+        "politician_id": "9eb6dcb3-40e7-401f-ae65-ab1cd608232d"
+      },
+      {
+        "id": "ad9be621-19fd-4ad9-b37d-8ffa557a2a39",
+        "performance_score": 63621,
+        "demand_score": 14523,
+        "assessment_date": "2023-09-06T09:47:36.886Z",
+        "created_at": "2023-09-05T23:16:00.750Z",
+        "updated_at": "2023-09-05T22:36:26.357Z",
+        "politician_id": "9eb6dcb3-40e7-401f-ae65-ab1cd608232d"
+      },
+      {
+        "id": "0c1b7815-844d-48d1-8feb-0ea9e2d9e32a",
+        "performance_score": 36031,
+        "demand_score": 30807,
+        "assessment_date": "2023-09-06T08:15:04.481Z",
+        "created_at": "2023-09-06T14:50:47.385Z",
+        "updated_at": "2023-09-05T19:20:37.545Z",
+        "politician_id": "15d5dbfa-58a2-4b69-9a5a-65a0146cfbd7"
+      },
+      {
+        "id": "8dfb38a3-9388-44ac-adb6-6df5e9a21f3f",
+        "performance_score": 16823,
+        "demand_score": 98430,
+        "assessment_date": "2023-09-06T10:54:11.190Z",
+        "created_at": "2023-09-06T00:54:49.753Z",
+        "updated_at": "2023-09-06T00:46:16.956Z",
+        "politician_id": "15d5dbfa-58a2-4b69-9a5a-65a0146cfbd7"
+      },
+      {
+        "id": "3b37721b-212b-4bf1-a8c1-2f26d14ba9bc",
+        "performance_score": 31632,
+        "demand_score": 77232,
+        "assessment_date": "2023-09-05T22:46:25.493Z",
+        "created_at": "2023-09-06T11:01:50.259Z",
+        "updated_at": "2023-09-05T18:36:23.267Z",
+        "politician_id": "15d5dbfa-58a2-4b69-9a5a-65a0146cfbd7"
+      }
+    ],
+    "guest": [
+      {
+        "id": "ce1ddbb5-465b-42aa-a453-6df7a882586f",
+        "search_history": "Climate change",
+        "viewed_profiles": "John Smith",
+        "created_at": "2023-09-06T07:55:43.517Z",
+        "updated_at": "2023-09-05T23:14:43.929Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b0bbf74-f9b3-44a5-b095-80a7fdde823e",
+        "search_history": "Economic inequality",
+        "viewed_profiles": "Jane Doe",
+        "created_at": "2023-09-05T19:02:45.868Z",
+        "updated_at": "2023-09-06T01:58:01.425Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd3d780b-66d4-45af-b06e-dcb398121193",
+        "search_history": "Healthcare reform",
+        "viewed_profiles": "Michael Brown",
+        "created_at": "2023-09-05T21:53:57.305Z",
+        "updated_at": "2023-09-06T07:23:07.418Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44305d70-3179-4342-89ec-cca4dd99ff50",
+        "search_history": "Education funding",
+        "viewed_profiles": "Sarah Jones",
+        "created_at": "2023-09-06T14:52:49.821Z",
+        "updated_at": "2023-09-06T02:53:35.070Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d094bce-9d57-4d68-a5ed-e388b5a17a7b",
+        "search_history": "Criminal justice reform",
+        "viewed_profiles": "David Wilson",
+        "created_at": "2023-09-06T05:43:12.261Z",
+        "updated_at": "2023-09-05T21:59:29.701Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8c053c6e-7e5c-4c6b-a922-aef219c82052",
+        "email": "Edythe_Ferry47@yahoo.com",
+        "firstName": "Berta",
+        "lastName": "Rutherford",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/283.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2c494f0c-1236-48b0-9f53-ad8b499ef54a",
+        "email": "Gia9@hotmail.com",
+        "firstName": "Janet",
+        "lastName": "Kuphal",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74754222",
+        "tenantId": null
+      },
+      {
+        "reference": "ec7d138c-04a2-424e-8ab9-2842fa45b047",
+        "email": "Celestine70@gmail.com",
+        "firstName": "Vivienne",
+        "lastName": "Schneider",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/872.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1b70cfe3-c95a-4788-921a-1f06fd5e668d",
+        "email": "Zane37@yahoo.com",
+        "firstName": "Erika",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/823.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c11ce3e6-0f20-4230-9310-68fb7f9970c5",
+        "email": "Ed.Ferry@yahoo.com",
+        "firstName": "Mattie",
+        "lastName": "Runolfsdottir",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/5.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "politician": [
+      {
+        "id": "3db1f01a-ba04-434d-9d6b-f81713915144",
+        "biography": "Experienced politician with a passion for public service.",
+        "current_position": "Member of Parliament",
+        "work_process": "Collaborating with colleagues to draft and pass legislation.",
+        "created_at": "2023-09-06T11:35:48.349Z",
+        "updated_at": "2023-09-06T04:21:30.320Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c86d1ad-07f7-4bed-be7a-f245e43b1b84",
+        "biography": "Dedicated to improving the lives of constituents through effective policies.",
+        "current_position": "Senator",
+        "work_process": "Engaging with constituents to address their concerns and needs.",
+        "created_at": "2023-09-06T00:10:30.613Z",
+        "updated_at": "2023-09-05T20:52:00.778Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b77a9ba-2527-4b96-b63f-718c282885c8",
+        "biography": "Committed to transparency and accountability in government.",
+        "current_position": "Governor",
+        "work_process": "Attending meetings and conferences to stay informed on relevant issues.",
+        "created_at": "2023-09-05T23:36:16.932Z",
+        "updated_at": "2023-09-05T21:47:49.314Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c5c4a0f-a04d-4a2b-9e6b-b638937c521d",
+        "biography": "Advocate for social justice and equality.",
+        "current_position": "Mayor",
+        "work_process": "Analyzing data and research to make informed policy decisions.",
+        "created_at": "2023-09-06T08:32:42.428Z",
+        "updated_at": "2023-09-05T22:50:41.675Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01b0e8cc-6f22-4644-8760-c7c5814204af",
+        "biography": "Champion for economic growth and job creation.",
+        "current_position": "City Councilor",
+        "work_process": "Speaking at public events to communicate priorities and goals.",
+        "created_at": "2023-09-06T00:31:20.305Z",
+        "updated_at": "2023-09-06T02:21:10.647Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "profile_usage": [
+      {
+        "id": "6a48e0a3-6285-4976-8684-2caeb7a43623",
+        "daily_usage": 77225,
+        "weekly_usage": 91939,
+        "monthly_usage": 18870,
+        "created_at": "2023-09-06T14:47:05.963Z",
+        "updated_at": "2023-09-06T13:29:26.902Z",
+        "politician_id": "3db1f01a-ba04-434d-9d6b-f81713915144"
+      },
+      {
+        "id": "385e9c0c-3e94-405c-85a5-bd264065e42a",
+        "daily_usage": 14400,
+        "weekly_usage": 43489,
+        "monthly_usage": 1723,
+        "created_at": "2023-09-06T03:32:46.763Z",
+        "updated_at": "2023-09-05T18:25:39.496Z",
+        "politician_id": "1c5c4a0f-a04d-4a2b-9e6b-b638937c521d"
+      },
+      {
+        "id": "39524301-59c3-4b50-bdc9-d5fca58ffac4",
+        "daily_usage": 84854,
+        "weekly_usage": 49134,
+        "monthly_usage": 71829,
+        "created_at": "2023-09-06T12:48:12.481Z",
+        "updated_at": "2023-09-05T23:54:08.166Z",
+        "politician_id": "4b77a9ba-2527-4b96-b63f-718c282885c8"
+      },
+      {
+        "id": "233515dd-e535-4806-9966-c97ed68ca389",
+        "daily_usage": 50834,
+        "weekly_usage": 42486,
+        "monthly_usage": 15070,
+        "created_at": "2023-09-05T21:03:54.600Z",
+        "updated_at": "2023-09-05T17:10:08.026Z",
+        "politician_id": "5c86d1ad-07f7-4bed-be7a-f245e43b1b84"
+      },
+      {
+        "id": "c97f0aba-ff99-4c91-80de-ed8a71034d72",
+        "daily_usage": 42368,
+        "weekly_usage": 90261,
+        "monthly_usage": 54104,
+        "created_at": "2023-09-05T19:41:11.470Z",
+        "updated_at": "2023-09-06T08:32:22.824Z",
+        "politician_id": "3db1f01a-ba04-434d-9d6b-f81713915144"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "bb79efc2-1dd5-4ba0-8232-b4653ced9185",
+        "performance_score": 44102,
+        "demand_score": 45728,
+        "assessment_date": "2023-09-06T07:19:46.741Z",
+        "created_at": "2023-09-05T18:46:36.130Z",
+        "updated_at": "2023-09-06T02:26:01.328Z",
+        "politician_id": "1c5c4a0f-a04d-4a2b-9e6b-b638937c521d"
+      },
+      {
+        "id": "088f0d5d-05b8-44d6-a6ec-001445546eec",
+        "performance_score": 45701,
+        "demand_score": 51460,
+        "assessment_date": "2023-09-06T04:11:23.219Z",
+        "created_at": "2023-09-06T14:12:43.524Z",
+        "updated_at": "2023-09-06T08:46:35.640Z",
+        "politician_id": "3db1f01a-ba04-434d-9d6b-f81713915144"
+      },
+      {
+        "id": "736e6d1f-0cd4-4b4d-86d7-c6defb0b571d",
+        "performance_score": 4542,
+        "demand_score": 41645,
+        "assessment_date": "2023-09-06T00:24:20.890Z",
+        "created_at": "2023-09-05T21:34:46.009Z",
+        "updated_at": "2023-09-05T17:11:02.794Z",
+        "politician_id": "5c86d1ad-07f7-4bed-be7a-f245e43b1b84"
+      },
+      {
+        "id": "5409fa9b-4344-4ea2-a054-ed3883df5ff4",
+        "performance_score": 54414,
+        "demand_score": 72076,
+        "assessment_date": "2023-09-05T18:23:39.523Z",
+        "created_at": "2023-09-06T00:25:48.242Z",
+        "updated_at": "2023-09-05T20:22:37.652Z",
+        "politician_id": "01b0e8cc-6f22-4644-8760-c7c5814204af"
+      },
+      {
+        "id": "ff6af7c9-a7dc-4ac5-b1b3-78db6a8a7504",
+        "performance_score": 13497,
+        "demand_score": 52078,
+        "assessment_date": "2023-09-06T03:25:09.939Z",
+        "created_at": "2023-09-06T11:18:08.442Z",
+        "updated_at": "2023-09-06T08:51:25.681Z",
+        "politician_id": "01b0e8cc-6f22-4644-8760-c7c5814204af"
+      }
+    ],
+    "guest": [
+      {
+        "id": "d9d19b6a-b30f-482f-84ea-92d2b7651024",
+        "search_history": "Climate change solutions",
+        "viewed_profiles": "John Smith (Politician)",
+        "created_at": "2023-09-05T23:01:18.140Z",
+        "updated_at": "2023-09-06T00:30:51.085Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9e964e3-8ed7-4330-a183-99008ffd8aba",
+        "search_history": "Economic policies",
+        "viewed_profiles": "Jane Doe (Activist)",
+        "created_at": "2023-09-06T12:06:22.090Z",
+        "updated_at": "2023-09-05T23:15:40.953Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d8cfd348-3162-4efc-a885-e83729fda63e",
+        "search_history": "Healthcare reform",
+        "viewed_profiles": "Michael Brown (Entrepreneur)",
+        "created_at": "2023-09-06T06:11:21.687Z",
+        "updated_at": "2023-09-05T21:52:53.810Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9451d7c2-c5fa-4a13-b6d5-d6adc93984cb",
+        "search_history": "Education funding",
+        "viewed_profiles": "Sarah Wilson (Scientist)",
+        "created_at": "2023-09-05T22:31:02.128Z",
+        "updated_at": "2023-09-06T08:19:23.617Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4cf7b49-2a4f-4542-92ce-a9de77859eee",
+        "search_history": "Criminal justice reform",
+        "viewed_profiles": "David Johnson (Community Leader)",
+        "created_at": "2023-09-05T18:27:30.890Z",
+        "updated_at": "2023-09-06T01:37:54.289Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1dd553d1-7f38-476a-98a6-99827cf42ca3",
+        "email": "Frieda_Lueilwitz@hotmail.com",
+        "firstName": "Lavon",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/921.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ae73e7f7-e20d-47ca-8d1e-ddafbbd4e9d5",
+        "email": "Eliezer_Tillman@hotmail.com",
+        "firstName": "Ova",
+        "lastName": "Hayes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/422.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "77772173-d98b-46e5-895e-6e1e707081a9",
+        "email": "Jarrett_Bahringer93@hotmail.com",
+        "firstName": "Tracey",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82597933",
+        "tenantId": null
+      },
+      {
+        "reference": "2de2bdf5-a65c-45a5-9b22-f979f11d2ac7",
+        "email": "Carmen_Hintz@gmail.com",
+        "firstName": "Gillian",
+        "lastName": "Prohaska",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19134248",
+        "tenantId": null
+      },
+      {
+        "reference": "b1e36a24-f33f-4390-a2c4-3061c1afce29",
+        "email": "Nicholas.Will@gmail.com",
+        "firstName": "Christine",
+        "lastName": "Kshlerin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/58.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
